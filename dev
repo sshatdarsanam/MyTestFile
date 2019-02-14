@@ -1,0 +1,6 @@
+touch filename
+git status
+git diff
+git commit -m “ ”
+git log
+git add
